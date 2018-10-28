@@ -1,0 +1,4 @@
+C:\Users\tetra\source\repos\Mono.Math.Port\Mono.Math.Port\obj\Release\netstandard1.0\Mono.Math.Port.csprojAssemblyReference.cache
+C:\Users\tetra\source\repos\Mono.Math.Port\Mono.Math.Port\obj\Release\netstandard1.0\Mono.Math.Port.csproj.CoreCompileInputs.cache
+C:\Users\tetra\source\repos\Mono.Math.Port\Mono.Math.Port\obj\Release\netstandard1.0\Mono.Math.Port.AssemblyInfoInputs.cache
+C:\Users\tetra\source\repos\Mono.Math.Port\Mono.Math.Port\obj\Release\netstandard1.0\Mono.Math.Port.AssemblyInfo.cs

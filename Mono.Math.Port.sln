@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mono.Math.Port", "Mono.Math.Port\Mono.Math.Port.csproj", "{378460DB-15AA-441F-AB07-5714967E032A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{378460DB-15AA-441F-AB07-5714967E032A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{378460DB-15AA-441F-AB07-5714967E032A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{378460DB-15AA-441F-AB07-5714967E032A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{378460DB-15AA-441F-AB07-5714967E032A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {91D8C7B1-D41E-462F-A71A-1B9562F06FA0}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,9 @@
+C:\Users\tetra\source\repos\Mono.Math.Port\Mono.Math.Port\bin\Release\netstandard2.0\Mono.Math.Port.deps.json
+C:\Users\tetra\source\repos\Mono.Math.Port\Mono.Math.Port\bin\Release\netstandard2.0\Mono.Math.Port.dll
+C:\Users\tetra\source\repos\Mono.Math.Port\Mono.Math.Port\bin\Release\netstandard2.0\Mono.Math.Port.pdb
+C:\Users\tetra\source\repos\Mono.Math.Port\Mono.Math.Port\obj\Release\netstandard2.0\Mono.Math.Port.csprojAssemblyReference.cache
+C:\Users\tetra\source\repos\Mono.Math.Port\Mono.Math.Port\obj\Release\netstandard2.0\Mono.Math.Port.csproj.CoreCompileInputs.cache
+C:\Users\tetra\source\repos\Mono.Math.Port\Mono.Math.Port\obj\Release\netstandard2.0\Mono.Math.Port.AssemblyInfoInputs.cache
+C:\Users\tetra\source\repos\Mono.Math.Port\Mono.Math.Port\obj\Release\netstandard2.0\Mono.Math.Port.AssemblyInfo.cs
+C:\Users\tetra\source\repos\Mono.Math.Port\Mono.Math.Port\obj\Release\netstandard2.0\Mono.Math.Port.dll
+C:\Users\tetra\source\repos\Mono.Math.Port\Mono.Math.Port\obj\Release\netstandard2.0\Mono.Math.Port.pdb
